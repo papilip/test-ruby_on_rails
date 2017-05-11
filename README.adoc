@@ -1,0 +1,37 @@
+# Test d’usage de Ruby on Rails
+
+Afin de nous permettre de tester votre niveau en ruby, nous vous proposons de réaliser une petite application à l’aide de Ruby on Rails.
+
+Il ne faut pas faire une “killer app” uniquement une application simple, voir simpliste qui permettra d’évaluer votre perception de Ruby on Rails et de son interconnexion avec une API publique.
+
+
+## Scénarii :
+
+Proposer une application SaSS aux responsables d’une association pour la gestion de ses membres avec une connexion à l’api d’OVH pour la gestion de listes de diffusions.
+
+
+## Fonctionalités attendues :
+
+* Création de l’association
+* Création des membres de deux types possibles :
+** Responsables ayant accès à l’application
+** Membres ayant accès à une page de membre uniquement
+* Connexion à l’API d’OVH
+* Gestion (CRUD) des listes de diffusions
+* Gestion des appartenances des membres aux listes de diffusions
+
+
+## Éléments techniques et rendu attendu :
+
+* Le code source de votre application sera hébergé sur votre espace Github.
+* Vous avez le choix de la base de données : PostgreSql ou MySQL/MariaDB
+* Le sujet est la création d’une application, pas d’apprendre tout l’éco-système, donc nous nous chargerons de l’hébergement en échange de votre clé publique SSH.
+* testrails.ovh est le domaine réservé à cet effet chez OVH pour vous permettre d’utiliser leur API.
+
+
+## Quelques liens
+
+* http://rubyonrails.org/ Ruby on Rails
+* https://rubygems.org/gems/rails La gem Ruby on Rails
+* http://guides.rubyonrails.org/ Les guides Ruby on Rails
+* https://api.ovh.com/ API d’OVH
