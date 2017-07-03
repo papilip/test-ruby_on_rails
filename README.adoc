@@ -7,12 +7,12 @@ Il ne faut pas faire une “killer app” uniquement une application simple, voi
 
 ## Scénarii :
 
-Proposer une application SaSS aux responsables d’une association pour la gestion de ses membres avec une connexion à l’api d’OVH pour la gestion de listes de diffusions.
+Proposer une application SaSS aux responsables d’une entité pour la gestion de ses membres avec une connexion à l’api d’OVH pour la gestion des listes de diffusions.
 
 
 ## Fonctionalités attendues :
 
-* Création de l’association
+* Création de l’entité
 * Création des membres de deux types possibles :
 ** Responsables ayant accès à l’application
 ** Membres ayant accès à une page de membre uniquement
